@@ -30,9 +30,9 @@ public class Exercise2MoneyGame {
          if (suma == dollar){
              System.out.println("Oh, exactamente es un dolar, enhorabuena!");
          } else if (suma > 100) {
-             System.out.println("Oh, te has pasado, " + sobrepasar);
+             System.out.println("Oh, te has pasado, " + sobrepasar + " centimos.");
          }else {
-             System.out.println("Oh, te han faltado " + debajo);
+             System.out.println("Oh, te han faltado " + debajo + " centimos");
          }
     }
 }
