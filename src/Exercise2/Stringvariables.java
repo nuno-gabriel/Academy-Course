@@ -9,7 +9,7 @@ public class Stringvariables {
         Intenta utilizar los métodos "equals()", "equalsIgnoreCase()" y "==". ¿Qué ocurre?
          */
 
-        String var1 = "Adios mundo";
+        String var1 = "Hello mundo";
         String var2 = "Adios mundo";
 
         boolean var3 = var1.equals(var2);
@@ -19,9 +19,5 @@ public class Stringvariables {
         System.out.println(var3);
         System.out.println(var4);
         System.out.println(var5);
-
-
     }
-
-
 }

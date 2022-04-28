@@ -14,7 +14,6 @@ public class MayorDeTres {
          */
 
         Scanner scanner = new Scanner(System.in);
-        double n1,n2,n3;
         System.out.println("Enter your first name: ");
         double numero1 = scanner.nextDouble();
         System.out.println("Enter your second number: ");
