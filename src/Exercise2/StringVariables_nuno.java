@@ -1,6 +1,6 @@
-package chapter3;
+package Exercise2;
 
-public class StringVariables {
+public class StringVariables_nuno {
     public static void main(String[] args){
 
         /*
