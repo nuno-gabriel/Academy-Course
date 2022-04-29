@@ -16,12 +16,21 @@ public class IsNumeric {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a one character: ");
-        char y = scanner.next().charAt(String);
+        char y = scanner.next().charAt(0);
 
-        char isNumeric = 0;
-        switch (isNumeric){
+        String number = "no";
+        if(Character.isDigit(y))
+            number = "yes";
+
+        switch(number) {
+            case "yes":
+                System.out.println("The character is a number!");
+                break;
+            case "no":
+                System.out.println("The character is NOT a number.");
+                break;
             default:
-                System.out.println("The character is a letter");
+                System.out.println("System error!");
         }
     }
 }
