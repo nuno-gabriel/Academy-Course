@@ -10,12 +10,12 @@ public class StringVariables_nuno {
 
         String var1 = "Hello world";
         String var2 = "Hello world";
-        String var3 = "HELLO WORLD";
+        String var3 = "HEL WORLD";
 
-        if (var1.equals(var2)){
+        /*if (var1.equals(var2)){
             System.out.println("The Strings are the same");
-        }
-        else if (var1.equalsIgnoreCase(var3)) {
+        }*/
+         if (var1.equalsIgnoreCase(var3)) {
             System.out.println("The Strings have the same lenght");
         }
         else {
