@@ -22,7 +22,7 @@ public class exercise2 {
         }
         else if (age<60){
             price = ticket;
-                    System.out.println("The cost of the ticket is: " + price + "€");
+            System.out.println("The cost of the ticket is: " + price + "€");
         }
         else{
             price = (ticket*seniorDiscount);
