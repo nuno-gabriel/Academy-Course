@@ -17,11 +17,16 @@ public class Exercise4 {
             System.out.println(firstNumber);
         } else if (secondNumber>firstNumber && secondNumber>thirdNumber) {
             System.out.println(secondNumber);
+<<<<<<< HEAD
         } else if (thirdNumber>secondNumber && thirdNumber>firstNumber) {
             System.out.println(thirdNumber);
         }else {
             System.out.println("The numbers entered are equals.");
 
+=======
+        }else {
+            System.out.println(thirdNumber);
+>>>>>>> e5bfb504fe8aa4deb2e24a1edd72845488a899a7
         }
 
     }
