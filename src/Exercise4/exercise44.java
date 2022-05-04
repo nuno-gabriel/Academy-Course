@@ -17,7 +17,7 @@ Step 4: At the end include the rule that it couldn’t be different of a number.
 */
 import java.util.Scanner;
 
-public class    exercisio44 {
+public class    exercise44 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input_string = "";
