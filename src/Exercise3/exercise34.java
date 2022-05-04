@@ -12,6 +12,6 @@ public class exercise34 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your age");
         int age = scanner.nextInt();
-        while (age <= )
+        //while (age <= )
     }
 }

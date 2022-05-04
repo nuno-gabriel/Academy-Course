@@ -1,7 +1,7 @@
-package Exercise3;
+/*package Exercise3;
 
 public class exercise35 {
-/*
+
 
       a) int n = 0;
 while( n < 10 ) {
