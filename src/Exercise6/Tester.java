@@ -1,4 +1,4 @@
-package topic6;
+package Exercise6;
 //  The new class should have the following attributes: Name, mindset , isTesterByChance?, long toenails.
 public class Tester {
     public String name;

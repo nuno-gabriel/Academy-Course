@@ -1,4 +1,4 @@
-package topic6;
+package Exercise6;
 
 public class exercise61 {
     public static void main(String[] args) {
